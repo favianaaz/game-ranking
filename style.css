@@ -1,0 +1,40 @@
+img {
+    height: 200px;
+    width: 300px;
+}
+
+#re4 {
+    color:saddlebrown;
+    background-color: beige;
+}
+
+#spyro {
+    color: purple;
+    background-color: beige;
+}
+
+#re8 {
+    color:darkorange;
+    background-color: beige;
+}
+
+#crash {
+    color: red;
+    background-color: beige;
+}
+
+body {
+    background-color:bisque;
+}
+
+h1 {
+    background-color: darkkhaki;
+}
+
+h2 {
+    background-color: aquamarine;
+}
+
+p {
+    text-align: justify;
+}
